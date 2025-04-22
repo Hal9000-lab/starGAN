@@ -1,0 +1,15 @@
+"""
+  Complete with your own path
+"""
+
+{
+  "chest": [
+    "path\\preprocessed\\Subject000\\chest.npy", 
+    "path\\preprocessed\\Subject001\\chest.npy"
+    
+  ],
+  "finger": [
+    "path\\preprocessed\\Subject000\\finger.npy",
+    "path\\preprocessed\\Subject001\\finger.npy"
+  ]
+}
